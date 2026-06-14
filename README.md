@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-nombre-en-la-arena/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Tu nombre en la arena](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-nombre-en-la-arena/) |
+| **Get License** | [Get License For Tu nombre en la arena](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-nombre-en-la-arena/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tu nombre en la arena se lo llevó el viento
+> Pero en mi cabeza te pienso y te siento
+> Tú tienes la llave de mi apartamento
+> Esta noche tú y yo no perdemos el tiempo
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
